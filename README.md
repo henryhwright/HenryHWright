@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22HenryHWright%22%2C%22name%22%3A%22Henry%20Wright%22%2C%22email%22%3A%22hhoustonwright%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Wi-Fi%22%2C%22Azure%20AD%22%2C%22Git%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Set%20Up%20Your%20Google%20Account%22%2C%22desc%22%3A%22Created%20a%20professional%20Gmail%20email%20account.%22%2C%22link%22%3A%22https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vR00Kdl5chOJYkunfD60wCnfch6YNNTYJRZ7BnDnrZh8NSKxullXgvYr929SoSlpw%2Fpub%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Deploy%20Windows%20Server%20on%20an%20Azure%20Virtual%20Machine%22%2C%22desc%22%3A%22Deploy%20Windows%20Server%202025%20on%20an%20Azure%20virtual%20machine%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22HenryHWright%22%2C%22name%22%3A%22Henry%20Wright%22%2C%22email%22%3A%22hhoustonwright%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundation%20Skills%20For%20IT%20Professionals%22%2C%22issuer%22%3A%22MyComputerCareer%22%2C%22link%22%3A%22file%3A%2F%2F%2FC%3A%2FUsers%2Fhhous%2FDownloads%2FNet%2520I%2520CoC%252011.2026%2520109.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -24,11 +24,15 @@
 
 ## Skills Learned
 
-🌐 Networking & Security: ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+*Select skills in the builder to display them here.*
 
-💻 Programming Languages & Tools: ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square)
+---
 
-☁️ Cloud & DevOps: ![Azure AD](https://img.shields.io/badge/Azure%20AD-0969da?style=flat-square)
+## 🏆 Certifications & Digital Badges
+
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| Foundation Skills For IT Professionals | MyComputerCareer | [Verify](file:///C:/Users/hhous/Downloads/Net%20I%20CoC%2011.2026%20109.pdf) | — |
 
 ---
 
@@ -37,10 +41,7 @@
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Set Up Your Google Account | Created a professional Gmail email account. | ✅ Complete | [Open](https://docs.google.com/document/d/e/2PACX-1vR00Kdl5chOJYkunfD60wCnfch6YNNTYJRZ7BnDnrZh8NSKxullXgvYr929SoSlpw/pub) |
-| Deploy Windows Server on an Azure Virtual Machine | Deploy Windows Server 2025 on an Azure virtual machine | ✅ Complete | — |
+*No labs added yet.*
 
 </details>
 
