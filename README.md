@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22HenryHWright%22%2C%22name%22%3A%22Henry%20Wright%22%2C%22email%22%3A%22hhoustonwright%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundation%20Skills%20For%20IT%20Professionals%22%2C%22issuer%22%3A%22MyComputerCareer%22%2C%22link%22%3A%22file%3A%2F%2F%2FC%3A%2FUsers%2Fhhous%2FDownloads%2FNet%2520I%2520CoC%252011.2026%2520109.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22HenryHWright%22%2C%22name%22%3A%22Henry%20Wright%22%2C%22email%22%3A%22hhoustonwright%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -25,14 +25,6 @@
 ## Skills Learned
 
 *Select skills in the builder to display them here.*
-
----
-
-## 🏆 Certifications & Digital Badges
-
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
-| Foundation Skills For IT Professionals | MyComputerCareer | [Verify](file:///C:/Users/hhous/Downloads/Net%20I%20CoC%2011.2026%20109.pdf) | — |
 
 ---
 
